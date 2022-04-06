@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-My name is Khoa, I am a Front-End Developer working currently in VietNam. This is my Github Profile.
+My name is Benjamin, I am a Front-End Developer working currently in VietNam. This is my Github Profile.
 
-[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=benjaminfrdev&theme=dark&show_icons=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=benjaminfrdev)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **benjaminfrdev/benjaminfrdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
